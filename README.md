@@ -11,4 +11,6 @@ The Bucks Centre for the Performing Arts (BCPA) is implementing an Online Ticket
 
 ## Languages used 
 Java ✔
-      
+
+![BlueJ Screenshot](https://github.com/Oxhei/BCPA-Online-Ticketing-System/assets/84982365/0630ee9b-f96a-4416-9c08-db9b487fdfe4)
+
