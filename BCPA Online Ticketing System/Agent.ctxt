@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Agent
+comment0.text=\r\n\ Class\ representing\ an\ agent\ in\ the\ ticket\ purchasing\ system.\r\n\ \r\n\ @author\ Richard\ and\ Brunaldo\r\n\ @version\ 0.2\r\n
+comment1.params=
+comment1.target=Agent()
+comment1.text=\r\n\ Constructor\ for\ the\ Agent\ class.\r\n\ Initializes\ a\ new\ Purchase\ object.\r\n
+comment2.params=pBuy
+comment2.target=void\ buy(int)
+comment2.text=\r\n\ Method\ to\ purchase\ tickets.\r\n\ @param\ pBuy\ Number\ of\ tickets\ to\ buy\r\n
+comment3.params=pPay
+comment3.target=void\ pay(int)
+comment3.text=\r\n\ Method\ to\ pay\ for\ the\ tickets.\r\n\ @param\ pPay\ Payment\ amount\r\n
+comment4.params=
+comment4.target=int\ checkBalance()
+comment4.text=\r\n\ Checks\ and\ returns\ the\ balance\ of\ payment.\r\n\ @return\ Balance\ amount\r\n
+numComments=5

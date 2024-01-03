@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Promotion
+comment0.text=\r\n\ Class\ for\ handling\ promotions\ in\ the\ ticket\ purchasing\ system.\r\n\ \r\n\ @author\ Richard\ and\ Brunaldo\r\n\ @version\ 0.2\r\n
+comment1.params=
+comment1.target=Promotion()
+comment1.text=\r\n\ Constructor\ for\ the\ Promotion\ class.\r\n\ Initializes\ the\ discount\ to\ zero.\r\n
+comment2.params=disOne
+comment2.target=void\ setPromo(int)
+comment2.text=\r\n\ Method\ to\ set\ a\ promotion\ discount\ for\ Saturday\ evening\ shows.\r\n\ @param\ disOne\ Discount\ amount\ to\ be\ added\r\n
+numComments=3

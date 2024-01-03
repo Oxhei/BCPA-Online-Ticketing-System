@@ -1,0 +1,77 @@
+
+/**
+ * Write a description of class ManageEvent here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class ManageEvent
+{
+    
+    // The price of a ticket from this machine.
+    public int price;
+    //The max number of tickets that allows user to buy per event. 
+    public int max;
+    //
+    public String eventName;
+
+    /**
+     * Constructor for objects of class ManageEvent
+     */
+    public ManageEvent()
+    {
+        price= 0;
+        max= 0;
+    }
+    
+    /**
+     * 
+     */
+    public void setName(String newName)
+    {
+        eventName= newName; 
+    }
+
+    /**
+     * Input the max number of tickets that allow to buy for current event.
+     */
+    public void setMax(int newMax)
+    {
+        max= newMax; 
+    }
+    
+    /**
+     * Input the price for ticket. 
+     */
+    public void setPrice(int newPrice)
+    {
+        price = newPrice; 
+    }
+    
+     /**
+     * Return The price of a ticket.
+     */
+    public int getPrice()
+    {
+        return price;
+    }
+    
+    /**
+     * Display the max number of tickets that allow to buy for current event. 
+     */
+    public int getMax()
+    {
+        return max;
+    }
+    
+    public void printEventDetails()
+    {
+        System.out.println();
+        System.out.println();
+        System.out.println("--------------------");
+        System.out.println("Event's name: " + eventName);
+        System.out.println("Price: £" + price);
+        System.out.println("Max per purchase: " + max);
+        System.out.println("--------------------");
+    }
+}

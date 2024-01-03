@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ManageEvent
+comment0.text=\r\n\ Class\ to\ manage\ events,\ including\ setting\ and\ retrieving\ event\ details.\r\n\r\n\ @author\ Richard\ and\ Brunaldo\ \r\n\ @version\ 0.2\r\n
+comment1.params=eventName\ price\ max
+comment1.target=ManageEvent(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ ManageEvent\ class.\r\n\ @param\ eventName\ Name\ of\ the\ event\r\n\ @param\ price\ Price\ of\ a\ ticket\r\n\ @param\ max\ Maximum\ number\ of\ tickets\ available\ for\ purchase\r\n
+comment2.params=newName
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\r\n\ Sets\ the\ name\ of\ the\ event.\r\n\ @param\ newName\ New\ name\ for\ the\ event\r\n
+comment3.params=newMax
+comment3.target=void\ setMax(int)
+comment3.text=\r\n\ Sets\ the\ maximum\ number\ of\ tickets\ available\ for\ the\ event.\r\n\ @param\ newMax\ New\ maximum\ ticket\ limit\r\n
+comment4.params=newPrice
+comment4.target=void\ setPrice(int)
+comment4.text=\r\n\ Sets\ the\ price\ for\ the\ event\ tickets.\r\n\ @param\ newPrice\ New\ ticket\ price\r\n
+comment5.params=
+comment5.target=int\ getPrice()
+comment5.text=\r\n\ Returns\ the\ ticket\ price.\r\n\ @return\ Ticket\ price\r\n
+comment6.params=
+comment6.target=int\ getMax()
+comment6.text=\r\n\ Returns\ the\ maximum\ number\ of\ tickets\ available\ for\ purchase.\r\n\ @return\ Maximum\ ticket\ limit\r\n
+comment7.params=
+comment7.target=void\ printEventDetails()
+comment7.text=\r\n\ Prints\ the\ details\ of\ the\ event.\r\n
+numComments=8

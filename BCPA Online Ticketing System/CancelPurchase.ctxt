@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CancelPurchase
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CancelPurchase\ here.\r\n\ \r\n\ @author\:\ Richard\ and\ Brunaldo\r\n\ @version\ 0.2\r\n
+comment1.params=
+comment1.target=CancelPurchase()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CancelPurchase\r\n
+comment2.params=amountToRefund
+comment2.target=void\ cancel(int)
+comment2.text=\r\n\ Refund\ method.\ \r\n
+comment3.params=
+comment3.target=void\ print()
+comment3.text=\r\n\ Print\ details\r\n
+numComments=4
