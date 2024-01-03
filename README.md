@@ -8,3 +8,7 @@ BCPA's Online Ticketing System (OTS) allows web-based ticket purchases, event vi
 ## Objective
 
 The Bucks Centre for the Performing Arts (BCPA) is implementing an Online Ticketing System (OTS) to enhance customer experience and streamline ticket sales. This system enables customers to view and select from upcoming events, choose seats from an interactive seating chart, and complete purchases online. Key features include different pricing structures for various demographics (adult, student, child, senior citizen) and dynamic promotions for each show. The system also allows venue managers to manage event schedules and promotions effectively.
+
+## Languages used 
+![Java](https://cdn.jsdelivr.net/npm/devicon/icons/java/java-original.svg)
+
