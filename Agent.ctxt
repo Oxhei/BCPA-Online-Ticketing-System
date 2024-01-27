@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Agent
+comment1.params=username\ email
+comment1.target=Agent(java.lang.String,\ java.lang.String)
+comment2.params=pBuy
+comment2.target=void\ buy(int)
+comment3.params=pPay
+comment3.target=void\ pay(int)
+comment4.params=
+comment4.target=int\ checkBalance()
+comment5.params=
+comment5.target=void\ printUserProfile()
+numComments=6

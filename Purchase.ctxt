@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Purchase
+comment0.text=\r\n\ Class\ containing\ methods\ for\ purchasing\ tickets.\r\n\ \r\n\ @author\ Richard\ and\ Brunaldo\r\n\ @version\ 0.2\r\n
+comment1.params=
+comment1.target=Purchase()
+comment2.params=block\ row\ sNumber
+comment2.target=void\ selectSeat(java.lang.String,\ int,\ int)
+comment3.params=noTicket
+comment3.target=void\ buyTicket(int)
+comment4.params=
+comment4.target=int\ getBalance()
+comment5.params=amount
+comment5.target=void\ insertMoney(int)
+comment6.params=
+comment6.target=void\ printTicket()
+numComments=7

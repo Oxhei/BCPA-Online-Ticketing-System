@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=UserProfile
+comment1.params=username\ email
+comment1.target=UserProfile(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getUsername()
+comment3.params=username
+comment3.target=void\ setUsername(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getEmail()
+comment5.params=email
+comment5.target=void\ setEmail(java.lang.String)
+comment6.params=
+comment6.target=int\ getBalance()
+comment7.params=amount
+comment7.target=void\ updateBalance(int)
+comment8.params=
+comment8.target=void\ printProfileDetails()
+numComments=9

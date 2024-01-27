@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Consumer
+comment1.params=username\ email\ age
+comment1.target=Consumer(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ applyAgeBasedDiscount()
+comment3.params=
+comment3.target=void\ printUserProfile()
+comment4.params=
+comment4.target=void\ printDiscount()
+numComments=5

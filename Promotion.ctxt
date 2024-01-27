@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Promotion
+comment1.params=
+comment1.target=Promotion()
+comment2.params=disOne
+comment2.target=void\ setPromo(int)
+numComments=3
